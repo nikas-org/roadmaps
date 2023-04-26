@@ -8,8 +8,4 @@
 
 ## Issues
 
-- [ ] https://github.com/nikas-org/roadmaps/issues/1
-- [ ] https://github.com/nikas-org/roadmaps/issues/2
-- [ ] https://github.com/nikas-org/roadmaps/issues/3
-- [ ] https://github.com/nikas-org/roadmaps/issues/4
-- [ ] https://github.com/nikas-org/roadmaps/issues/5
+- [ ] https://github.com/nikas-org/roadmaps/issues/6
